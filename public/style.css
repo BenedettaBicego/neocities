@@ -16,19 +16,19 @@ main{
 
 #anchor{
   position: absolute;
-  top: 600px;
-  left: 970px;
-  width: 1220px;
+  top: 180px;
+  left: 470px;
+  width: 820px;
 }
 
 #eyes, #eyes img{
   position: absolute;
-  width: 110px;
+  width: 90px;
 }
 
 #eyes_back img{
   position: absolute;
-  width: 110px;
+  width: 90px;
 }
 
 h1 {
