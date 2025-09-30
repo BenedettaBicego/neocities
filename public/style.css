@@ -14,16 +14,17 @@ main{
 }
 
 #anchor{
-  position: absolute;
-  top: 180px;
-  left: 470px;
+  /*top: 180px;*/
+  /*left: 970px;*/
   width: 820px;
 }
 
 #eyes, #eyes img{
-  position: absolute;
-  width: 63px;
-  top: 175px; 
+  display: flex;
+  position: relative;
+  bottom: 244px;
+  width: 61px;
+  /*top: 175px; */
 }
 
 h1 {
